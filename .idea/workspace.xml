@@ -1,20 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b7120b9-a8c8-4033-88df-b2a5d7246bb7" name="Changes" comment="" />
+    <list default="true" id="4b7120b9-a8c8-4033-88df-b2a5d7246bb7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/AbraPythonPlaywright.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AbraPythonPlaywright.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/clients/abra_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/clients/abra_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/models/abra_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models/abra_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/models/error_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models/error_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/tests/sign_in_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/tests/sign_in_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/test_abra.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui/test_abra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/allure_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/allure_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/api_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/api_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/common_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/common_checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/http_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/http_client.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2wMkg5XTAlfES23xf3xt8tXMOJ3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ui" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -33,5 +75,16 @@
       <updated>1745858937887</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
