@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b7120b9-a8c8-4033-88df-b2a5d7246bb7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/AbraPythonPlaywright.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AbraPythonPlaywright.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/clients/abra_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/clients/abra_client.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/models/abra_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models/abra_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/models/error_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models/error_models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/tests/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/tests/sign_in_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/tests/sign_in_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/test_abra.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui/test_abra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/allure_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/allure_helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/api_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/api_helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/common_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/common_checker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/http_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/http_client.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +24,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AnastasiyaNedbaylik"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AnastasiyaNedbaylik/abrapythonplaywright.git",
+    "accountId": "f77fb8fc-a56b-456f-b638-296ab319c764"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2wMkg5XTAlfES23xf3xt8tXMOJ3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,8 +47,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "editor.preferences.completion"
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,7 +66,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
       </set>
     </attachedChunks>
   </component>
@@ -73,18 +79,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745858937887</updated>
+      <workItem from="1745952211857" duration="35000" />
+      <workItem from="1745952387162" duration="7133000" />
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

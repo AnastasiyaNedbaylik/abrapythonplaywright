@@ -12,6 +12,6 @@ class LoginRequestModel(BaseModel):
 class LoginResponseModel(BaseModel):
     ok: bool
     result: bool
-    detail: str
-    error: str
-    error_code: int
+#    detail: str
+ #   error: str
+#    error_code: int
