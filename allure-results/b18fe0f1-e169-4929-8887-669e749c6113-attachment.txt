@@ -1,0 +1,24 @@
+Time: 2025-05-14 19:10:03.941519
+Request:
+POST https://api.dev.abra-market.com//auth/sign-in
+
+Request Headers:
+{
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Length": "60",
+    "Content-Type": "application/json"
+}
+
+Request Cookies:
+None
+
+Request Body:
+{
+    "email": "logego6633@hikuhu.com",
+    "password": "Password1!"
+}
+
+curl -X POST -H "User-Agent: python-requests/2.32.3" -H "Accept-Encoding: gzip, deflate" -H "Accept: */*" -H "Connection: keep-alive" -H "Content-Length: 60" -H "Content-Type: application/json" -d '{"email": "logego6633@hikuhu.com", "password": "Password1!"}' https://api.dev.abra-market.com//auth/sign-in

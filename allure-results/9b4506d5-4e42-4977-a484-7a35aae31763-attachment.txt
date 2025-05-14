@@ -1,0 +1,24 @@
+Time: 2025-05-14 19:10:21.931825
+Response Code:
+200 OK
+
+Response Headers:
+{
+    "Server": "nginx/1.18.0 (Ubuntu)",
+    "Date": "Wed, 14 May 2025 17:10:21 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "25",
+    "Connection": "keep-alive",
+    "access-control-expose-headers": "Set-Cookie",
+    "set-cookie": "access_token_cookie=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjE1MiwiaWF0IjoxNzQ3MjQyNjIxLCJuYmYiOjE3NDcyNDI2MjEsImp0aSI6Ijg5ZDIzZjdjLTA0OTMtNGE3Ny05ZmYzLTVmY2U4NGJmYTlkMSIsImV4cCI6MTc0Nzg0NzQyMSwidHlwZSI6ImFjY2VzcyIsImZyZXNoIjpmYWxzZX0.H3YhIZXUlRwOXamR8zdfxxHdw-iSqZCKfkG0mmqcB2M; Domain=.abra-market.com; HttpOnly; Max-Age=604800; Path=/; SameSite=lax; Secure, refresh_token_cookie=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjE1MiwiaWF0IjoxNzQ3MjQyNjIxLCJuYmYiOjE3NDcyNDI2MjEsImp0aSI6ImI1MTU2ODE0LTJkZjktNGUyNC05MzU2LTgzYjdmOWE3ZDMwOSIsImV4cCI6MTc0OTY2MTgyMSwidHlwZSI6InJlZnJlc2gifQ.2gGwEcpbAA57tC3GOtPuDP6d4iM-jABZ7VMn1ne381o; Domain=.abra-market.com; HttpOnly; Max-Age=2419200; Path=/; SameSite=lax; Secure"
+}
+
+Response Cookies:
+{
+    "access_token_cookie": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjE1MiwiaWF0IjoxNzQ3MjQyNjIxLCJuYmYiOjE3NDcyNDI2MjEsImp0aSI6Ijg5ZDIzZjdjLTA0OTMtNGE3Ny05ZmYzLTVmY2U4NGJmYTlkMSIsImV4cCI6MTc0Nzg0NzQyMSwidHlwZSI6ImFjY2VzcyIsImZyZXNoIjpmYWxzZX0.H3YhIZXUlRwOXamR8zdfxxHdw-iSqZCKfkG0mmqcB2M",
+    "refresh_token_cookie": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjE1MiwiaWF0IjoxNzQ3MjQyNjIxLCJuYmYiOjE3NDcyNDI2MjEsImp0aSI6ImI1MTU2ODE0LTJkZjktNGUyNC05MzU2LTgzYjdmOWE3ZDMwOSIsImV4cCI6MTc0OTY2MTgyMSwidHlwZSI6InJlZnJlc2gifQ.2gGwEcpbAA57tC3GOtPuDP6d4iM-jABZ7VMn1ne381o"
+}
+
+Response Body:
+{'ok': True, 'result': True}
+
