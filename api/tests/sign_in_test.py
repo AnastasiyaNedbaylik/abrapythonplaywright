@@ -1,5 +1,4 @@
 import allure
-import pytest
 
 from api.clients.abra_client import AbraClient
 from api.clients.postgres_client import PostgresClient

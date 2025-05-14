@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b7120b9-a8c8-4033-88df-b2a5d7246bb7" name="Changes" comment="Fix Settings">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/clients/postgres_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/postgres_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/clients/abra_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/clients/abra_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/tests/conftest.py" afterDir="false" />
+    <list default="true" id="4b7120b9-a8c8-4033-88df-b2a5d7246bb7" name="Changes" comment="Add DB connection">
       <change beforePath="$PROJECT_DIR$/api/tests/sign_in_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/tests/sign_in_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/http_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/http_client.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745858937887</updated>
       <workItem from="1745952211857" duration="35000" />
-      <workItem from="1745952387162" duration="18195000" />
+      <workItem from="1745952387162" duration="18348000" />
     </task>
     <task id="LOCAL-00001" summary="Fix LoginResponseModel">
       <option name="closed" value="true" />
@@ -144,7 +134,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746006371088</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add DB connection">
+      <option name="closed" value="true" />
+      <created>1747243555750</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747243555750</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add DB connection">
+      <option name="closed" value="true" />
+      <created>1747243567747</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747243567747</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +171,8 @@
     <MESSAGE value="Fix LoginResponseModel" />
     <MESSAGE value="Fix login fixture" />
     <MESSAGE value="Fix Settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix Settings" />
+    <MESSAGE value="Add DB connection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add DB connection" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/abrapythonplaywright$.coverage" NAME=" Coverage Results" MODIFIED="1747243439237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api/tests" />
