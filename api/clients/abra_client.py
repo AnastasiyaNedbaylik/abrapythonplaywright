@@ -7,7 +7,7 @@ import allure
 
 class AbraClient(ClientApi):
     def __init__(self):
-        super().__init__()
+       super().__init__()
 
     @allure.step('POST /auth/sign-in')
     def login(self,

@@ -7,7 +7,7 @@ from utils.allure_helper import AllureHelper
 
 
 class ClientApi:
-    def __int__(self) -> None:
+    def __init__(self) -> None:
         self.settings = settings
         self.env = settings.ENVIRONMENT
         self.BASE_URL_API = settings.BASE_URL_API
@@ -34,7 +34,7 @@ class ClientApi:
                 verify: bool = False,
                 timeout: typing.Optional[float] = None,
     ) -> requests.Response:
-        response = self._session.request(
+        response = requests.Session().request(
             method=method,
             #url=special_url
             #   or f"https://{self.service}.{self.base_url}.{self.env}{url}",
