@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b7120b9-a8c8-4033-88df-b2a5d7246bb7" name="Changes" comment="Add DB connection">
-      <change beforePath="$PROJECT_DIR$/api/tests/sign_in_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/tests/sign_in_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745858937887</updated>
       <workItem from="1745952211857" duration="35000" />
-      <workItem from="1745952387162" duration="18348000" />
+      <workItem from="1745952387162" duration="18659000" />
     </task>
     <task id="LOCAL-00001" summary="Fix LoginResponseModel">
       <option name="closed" value="true" />
@@ -150,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747243567747</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add DB connection">
+      <option name="closed" value="true" />
+      <created>1747243605165</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747243605165</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
